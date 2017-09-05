@@ -12,11 +12,11 @@
 
 ## 项目预览
 
-### 手机端
-![](http://ovh9m465i.bkt.clouddn.com/mobile.png)
-
 ### PC端
-![](http://ovh9m465i.bkt.clouddn.com/computer.png)
+![](./preview/pc.png)
+
+### 手机端
+![](./preview/mobile.png)
 
 ## 已知BUG
 - logo用img包裹在移动端点击会弹出保存图片，影响用户体验。
